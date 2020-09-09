@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796472105720",
+    "firebase_url": "https://medifriend-78862.firebaseio.com",
+    "project_id": "medifriend-78862",
+    "storage_bucket": "medifriend-78862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796472105720:android:f91dd281e342a36a67390d",
+        "android_client_info": {
+          "package_name": "CodeChiKame.MediFriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796472105720-0nrhut4utpj3dtedefeme3qr359g269m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7nmejtiOp8Ly2qPtiAnZnU17aj8Uc9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796472105720-0nrhut4utpj3dtedefeme3qr359g269m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
