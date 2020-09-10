@@ -20,16 +20,20 @@ We plan to build an application that will fetch the Reports of Indian Citizens f
 Solutioning and Methodology
 
 We intend to solve the problem of missing reports, untraceable history of the patient and our idea if implemented can bring about a revolution in the Medical Industry, one of the many advantages of our idea is its environment friendly as its saving paper, digital is the world of tomorrow, as reports are already softcopies of Digital Media, we can digitize the whole process of Consultation after reports of a test come out.
-The Impact that our solution will create as we think, isn’t short of a revolution in the Medical World as ideally in the 21st century, there should be no need of taking heavy stacks of reports to hospitals and spending loads of time gathering and searching for past reports just so the doctor can draw a patient history through them. \
+The Impact that our solution will create as we think, isn’t short of a revolution in the Medical World as ideally in the 21st century, there should be no need of taking heavy stacks of reports to hospitals and spending loads of time gathering and searching for past reports just so the doctor can draw a patient history through them.  
 
-We intend to learn more about what technologies we can make use of for this idea of ours to be implemented, we assume that our idea is fairly basic but never thought of implementing it on a large scale. We think that this idea of ours can benefit the nation on the road to become Digital India just like the implementation of Fastag. \
+We intend to learn more about what technologies we can make use of for this idea of ours to be implemented, we assume that our idea is fairly basic but never thought of implementing it on a large scale. We think that this idea of ours can benefit the nation on the road to become Digital India just like the implementation of Fastag.  
 
-Our solution can be implemented fairly easily, we can have a portal where Aadhar ID is used as Auth ID. (unique) for every individual. The basic workflow of our solution goes as follows: 
+Our solution can be implemented fairly easily, we can have a portal where Aadhar ID is used as Auth ID. (unique) for every individual. The basic workflow of our solution goes as follows:  
+ 
 ● Every IMA registered doctor will be a part of the Userbase, with upload and access rights.  
 ● Every patient’s reports will be uploaded onto our solution’s Database.  
 ● Another time when the patient visits the doctor, the doctor can access the details by entering the Aadhar ID .  
 ● To prevent Data, leak every transaction of accessing the previous documents by the doctor will be proctored by an OTP to the registered mobile number of the Aadhar holder.  
 
-Our idea is highly scalable as positive deteriorations in the solution can bring it up to a national scale for implementation, the IMA and all Indian citizens will be profited with our solution. Tech Stack: For Demo purposes we can implement our solution through a website, underlying the following technologies - HTML, CSS, JavaScript, JSP, etc. But for high level scalable implementation during the hackathon we intend to use Flutter for the overall development of the application with integrated backend support for huge data. We are planning to integrate insights from the pre-existing data of the customer using Tableau- a Data Visualization tool
+Our idea is highly scalable as positive deteriorations in the solution can bring it up to a national scale for implementation, the IMA and all Indian citizens will be profited with our solution. Tech Stack: For Demo purposes we can implement our solution through a website, underlying the following technologies - HTML, CSS, JavaScript, JSP, etc. But for high level scalable implementation during the hackathon we intend to use Flutter for the overall development of the application with integrated backend support for huge data. We are planning to integrate insights from the pre-existing data of the customer using Tableau- a Data Visualization tool. 
 
-Utkarsh Agnihotri , Nitish Awasthi and Raaj Anand Chaudhary Invertis University, Bareilly Reference links: ● https://github.com/Zenix27/ ● https://github.com/nitish-awasthi ● https://www.codechef.com/users/anitish_225 ● https://www.codechef.com/users/agniutkarsh
+
+-Utkarsh Agnihotri , Nitish Awasthi and Raaj Anand Chaudhary.   
+Invertis University, Bareilly. 
+
