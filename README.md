@@ -17,7 +17,7 @@ Description of the desired application:
 
 We plan to build an application that will fetch the Reports of Indian Citizens from a centralized Database using Unique Identification such as AADHAR. Our proposed application will have the reports of every individual, which can be accessed by any Doctor of Indian Medical Association with his Unique registration no. which will act as a Username for the application through which details of each individual can be accessed by entering the Unique Identification Number. Currently, there are no such competitors in the market, we propose this as a Unique Start-up Idea to be implemented in Smart Cities first, then expand it to other parts of the Country. \
 
-**Solutioning and Methodology:
+##Solutioning and Methodology
 
 We intend to solve the problem of missing reports, untraceable history of the patient and our idea if implemented can bring about a revolution in the Medical Industry, one of the many advantages of our idea is its environment friendly as its saving paper, digital is the world of tomorrow, as reports are already softcopies of Digital Media, we can digitize the whole process of Consultation after reports of a test come out.
 The Impact that our solution will create as we think, isn’t short of a revolution in the Medical World as ideally in the 21st century, there should be no need of taking heavy stacks of reports to hospitals and spending loads of time gathering and searching for past reports just so the doctor can draw a patient history through them. \
