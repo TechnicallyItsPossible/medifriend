@@ -1,3 +1,4 @@
+import 'package:MediFriend/screens/wrapper.dart';
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 
@@ -17,32 +18,17 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return new SplashScreen(
         seconds: 3,
-        title: new Text(
-          'Medi Friend',
-          style: new TextStyle(
-              fontWeight: FontWeight.bold,
-              fontSize: 20.0,
-              color: Colors.white,
-              fontFamily: 'Russo'),
-        ),
         navigateAfterSeconds: new AfterSplash(),
-        image: new Image.asset('assets/loading.gif'),
-        backgroundColor: Colors.black,
-        photoSize: 200.0,
-        loaderColor: Colors.transparent);
+        image: new Image.asset('assets/logo2.png'),
+        backgroundColor: Colors.grey[700],
+        photoSize: 150.0,
+        loaderColor: Colors.teal);
   }
 }
 
 class AfterSplash extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return new Scaffold(
-      body: new Center(
-        child: new Text(
-          "Done!",
-          style: new TextStyle(fontWeight: FontWeight.bold, fontSize: 30.0),
-        ),
-      ),
-    );
+    return Wrapper();
   }
 }
