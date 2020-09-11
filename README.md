@@ -30,6 +30,6 @@
 
     <p align="justify">Our idea is highly scalable as positive deteriorations in the solution can bring it up to a national scale for implementation, the IMA and all Indian citizens will be profited with our solution. Tech Stack: For Demo purposes we can implement our solution through a website, underlying the following technologies - HTML, CSS, JavaScript, JSP, etc. But for high level scalable implementation during the hackathon we intend to use Flutter for the overall development of the application with integrated backend support for huge data. We are planning to integrate insights from the pre-existing data of the customer using Tableau- a Data Visualization tool.</p>
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [Utkarsh Agnihotri](https://github.com/Zenix27) , [Nitish Awasthi](https://github.com/Nitish-Awasthi) and [Raaj Anand Chaudhary](http://github.com/technicallyitspossible)   
 
