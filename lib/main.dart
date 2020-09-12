@@ -1,5 +1,8 @@
+import 'package:MediFriend/models/user.dart';
 import 'package:MediFriend/screens/wrapper.dart';
+import 'package:MediFriend/services/auth.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:splashscreen/splashscreen.dart';
 
 void main() {
@@ -29,6 +32,11 @@ class _MyAppState extends State<MyApp> {
 class AfterSplash extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Wrapper();
+    return StreamProvider<User>.value(
+      value: AuthService().user,
+      child: MaterialApp(
+        home: Wrapper(),
+      ),
+    );
   }
 }
