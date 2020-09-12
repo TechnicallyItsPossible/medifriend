@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
         seconds: 3,
         navigateAfterSeconds: new AfterSplash(),
         image: new Image.asset('assets/logo2.png'),
-        backgroundColor: Colors.grey[700],
+        backgroundColor: Colors.black,
         photoSize: 150.0,
         loaderColor: Colors.teal);
   }
