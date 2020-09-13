@@ -23,9 +23,9 @@ class _MyAppState extends State<MyApp> {
         seconds: 3,
         navigateAfterSeconds: new AfterSplash(),
         image: new Image.asset('assets/logo2.png'),
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.teal,
         photoSize: 150.0,
-        loaderColor: Colors.teal);
+        loaderColor: Colors.white);
   }
 }
 
