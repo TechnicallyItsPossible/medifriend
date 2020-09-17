@@ -1,3 +1,4 @@
+import 'package:MediFriend/screens/home/options.dart';
 import 'package:MediFriend/services/auth.dart';
 import 'package:flutter/material.dart';
 
@@ -7,7 +8,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.black,
+      backgroundColor: Colors.teal,
       appBar: AppBar(
         title: Text('Patient Details'),
         backgroundColor: Colors.teal,
@@ -21,6 +22,7 @@ class Home extends StatelessWidget {
           )
         ],
       ),
+      body: Options(),
     );
   }
 }
